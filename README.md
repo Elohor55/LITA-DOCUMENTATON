@@ -25,7 +25,7 @@ The HR Data Analytics project aims to create a centralized platform for human re
 # Project Timeline:
 
 | Phase | Tasks | 
-| --- | --- | --- |
+| --- | --- | 
 | Data Collection | Gather datasets, review data quality | 
 | Data Visualization | Design Power BI reports and dashboards | 
 | Data Analysis | Perform statistical analysis, data modeling | 
@@ -45,7 +45,7 @@ The HR Data Analytics project aims to create a centralized platform for human re
 1. HR Information System (HRIS)
 2. Employee Performance Management System
 3. Training and Development Database
-4. Company Demographics Dataset
+   
 
 # Data Quality and Security:
 
@@ -64,7 +64,7 @@ The HR Data Analytics project aims to create a centralized platform for human re
 1. Data accuracy and completeness
 2. Report and dashboard effectiveness
 3. Insights and recommendations quality
-4. Stakeholder satisfaction
+
 
 # Project Maintenance and Updates:
 
@@ -72,7 +72,14 @@ The HR Data Analytics project aims to create a centralized platform for human re
 2. Refine Power BI reports and dashboards.
 3. Provide training and support.
 
-# Data visulization
+# Result 
+the total number of empolyee is 1470,  with 237 number of attriton , the current number of employee is 1233,with attrition rate of 16%
+the visualization shows the trend of Attrition by information of the employee 
+
+# Data visualization
+
+![Screenshot (22)](https://github.com/user-attachments/assets/d3f292f7-75a3-4d5e-8bbb-c89417dfb64c)
+
 
 # Conclusion:
 
