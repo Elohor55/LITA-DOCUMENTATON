@@ -1,6 +1,8 @@
 # LITA-DOCUMENTATON
 here i would be talking about all my learning in ladies in tech Africa
 
+# projec
+
 
 
 # HR Data Analytics with Power BI
@@ -52,27 +54,12 @@ The HR Data Analytics repository was created to:
 
 *License*
 
-Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
-
-*Acknowledgments*
-
-Thanks to the HR team and data contributors.
-
-*Contact*
-
-[Your Name]
-[Your Email]
-[Your Organization]
-
-*Changelog*
-
-[List changes, updates, and releases]
+Creative 
 
 *Tools Used*
 
 - Power BI Desktop
-- Power BI Service
-- Excel
-- CSV files
+- Excel workbook
+  
 
-By leveraging Power BI and this repository, we can unlock HR data insights to drive business success and foster a more inclusive, efficient, and engaging work environment.
+
